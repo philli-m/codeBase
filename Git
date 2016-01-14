@@ -1,0 +1,25 @@
+Jira procedure
+
+- email is received with Jira task details and spec.
+
+Git procedure RG
+
+from phpstorm, choose files to upload to devm
+
+- for immediate release:
+  ~/rg/community (master +)]$ git pick
+
+  //menu with numbered options select number you wish
+
+  //otherwise standard use
+
+  git pull
+  git commit
+  git push
+
+  *How to choose files?
+
+Checking on experiments:
+
+- Fetch logged out x-correlation-id from network tab for all versions
+- use logged in /adminexperiments add correlation-id to url after =

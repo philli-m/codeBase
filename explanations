@@ -1,0 +1,9 @@
+Enitity = are special objects
+/** = setting the var type and availability
+collect () = generator function
+yield = specific to generator functions, used like return
+new = constructor for new instance of a *Requirment object, be it data or entity
+::class = sets previous string as class name or finds class name?
+=>
+->
+getPublicationUid ect = built in functions, will learn! 
